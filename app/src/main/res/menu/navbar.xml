@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ticket"
+        android:title="Ticket"
+        android:icon="@drawable/ticket_selector"/>
+    <item
+        android:id="@+id/news"
+        android:title="News"
+        android:icon="@drawable/news_selector"/>
+
+    <item
+        android:id="@+id/user"
+        android:title="User"
+        android:icon="@drawable/user_selector"/>
+
+</menu>
